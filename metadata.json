@@ -1,0 +1,6 @@
+{
+  "name": "رواية البرد الذي اخترق الجدران",
+  "description": "الموقع الرسمي لرواية 'البرد الذي اخترق الجدران' - عمل أدبي وفلسفي يستكشف أوهام السعادة وحقيقة الألم الممتدة مع قارئ تفاعلي ومقتطفات صوتية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
